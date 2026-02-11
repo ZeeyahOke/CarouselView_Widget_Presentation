@@ -5,10 +5,7 @@ The CarouselView Widget in Flutter, allows developers to create a scrollable lis
 ## Setup Instructions
 
 - Step 1: Ensure that you have Flutter SDK installed (version >= 3.0.0)
-- Step 2: Clone the git repo "git clone 
-- Step 3: Use the command `cd carousel` to navigate to the directory of the code.
-- Step 4: Run the command `flutter pub get` to install dependencies
-- Step 5: Connect a device or emulator and run by using the command `flutter run`
+- Step 2: Run the command 
 
 This project is a starting point for a Flutter application.
 

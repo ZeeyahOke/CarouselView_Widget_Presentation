@@ -19,3 +19,7 @@ The CarouselView Widget in Flutter allows developers to create a scrollable list
 ## UI Screenshot
 
 ![My Carousel Screenshot](carousel/screenshot/Screenshot%202026-02-11%20at%201.59.33 PM.png)
+
+## References
+[New CarouselView Tutorial by CodeX] (https://www.youtube.com/watch?v=Nnxg-Jhhk6M)
+[CarouselView by Flutter] (https://www.youtube.com/watch?v=GQ8ajYVF0bo)
